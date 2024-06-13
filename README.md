@@ -1,5 +1,8 @@
 # Power-BI-projects
-•	Developed and maintained interactive dashboards using Power BI to provide real-time insights into key factors contributing to attrition, enabling HR and management to take targeted actions.
-•	Visualized hiring data with Power BI to streamline the process, reducing time-to-hire and improving candidate quality.
-•	Analysed feedback data with Power BI, identifying improvements that increased employee satisfaction and engagement.
-•	Created clear and accessible reports in Power BI, promoting transparency and trust across teams.
+Attrition Insights Dashboard: Gain real-time insights into key factors contributing to attrition within the organization, enabling HR and management to take targeted actions to improve employee retention.
+
+Hiring Process Optimization Dashboard: Visualize hiring data to streamline the recruitment process, reducing time-to-hire and improving the quality of candidates.
+
+Employee Feedback Analysis Dashboard: Analyze feedback data to identify areas for improvement, ultimately increasing employee satisfaction and engagement.
+
+Transparent Reporting: Reports are designed to be clear and accessible, promoting transparency and trust across teams.
